@@ -265,15 +265,15 @@ a img{
   border-bottom:1px solid;
 }
 .slideshow-container {
-  max-width: 75vh;
+  max-width: 100vh;
   position: relative;
   margin: auto;
 
 }
 .mySlides img{
   width: 100%;
-  max-width: 20em;
-  height: 20em;
+  max-width: 20rem;
+  height: 20rem;
   object-fit: cover;
   border-radius: 10px;
 }
