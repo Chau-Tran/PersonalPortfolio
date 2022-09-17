@@ -155,7 +155,7 @@ a{text-decoration:none;color:var(--white);}
 #sub{
   color:var(--red);
   font-style:italic;
-  font-size:1rem;
+  font-size:1.5rem;
   font-weight:normal;
 }
 
@@ -295,11 +295,11 @@ a img{
 
 /* Position the "next button" to the right */
 .next {
-  right: -2em;
+  right: 0em;
 }
-.prev {
+/* .prev {
   left: -2em;
-}
+} */
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
